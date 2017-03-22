@@ -118,3 +118,34 @@ body {
     height: 60px;
     margin-top: 20px;
 }
+
+#aside1 {
+    background-color: #ebebeb;
+    width: 25%;
+    height: 300px;
+    position: absolute;
+    margin-top: 230px;
+    right: 19%;
+}
+
+#asidetext {
+	position: absolute;
+    width: 100%;
+    top: 11%;
+    text-align: center;
+}
+
+#footer1 {
+    background-color: #ebebeb;
+    height: 100px;
+    position: absolute;
+    width: 63%;
+    margin-top: 550px;
+}
+
+#footertext {
+	position: absolute;
+    width: 100%;
+    top: 40%;
+    text-align: center;
+    }
